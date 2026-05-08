@@ -1,0 +1,75 @@
+# =========================
+# Build folders
+# =========================
+bin/
+obj/
+publish/
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+build_output.txt
+
+# =========================
+# User-specific files
+# =========================
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# IDE folders
+# =========================
+.vscode/
+.idea/
+.vs/
+
+# =========================
+# ASP.NET Core configs
+# =========================
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Local.json
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+
+# =========================
+# Secrets
+# =========================
+secrets.json
+
+# =========================
+# Test output
+# =========================
+TestResults/
+coverage/
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+packages/
+
+# =========================
+# Temp files
+# =========================
+*.tmp
+*.temp
+
+# =========================
+# OS generated
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Node.js
+# =========================
+node_modules/
